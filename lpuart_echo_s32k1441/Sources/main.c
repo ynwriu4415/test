@@ -149,6 +149,8 @@ int main(void)
       ShellIf_Process();
       ShellIf_Process();
       ShellIf_Process();
+      ShellIf_Process();
+      ShellIf_Process();
   }
 
   /*** Don't write any code pass this line, or it will be deleted during code generation. ***/
